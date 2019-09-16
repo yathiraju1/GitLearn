@@ -1,2 +1,3 @@
-This is first file for git learning.
+This is first line for git learning.
 This is Second line for git learning
+This is the third line for git learning
